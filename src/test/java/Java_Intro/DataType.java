@@ -1,4 +1,7 @@
-public class Java {
+package Java_Intro;
+
+public class DataType
+{
 
         /*public static void methodA(){ // static method
             System.out.println("This is to print Method A");

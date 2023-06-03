@@ -1,3 +1,5 @@
+package Constructors;
+
 public class ChainConstructor {
     /*
     use the syntax this(); to call the current class constuctor and

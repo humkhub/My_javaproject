@@ -1,3 +1,5 @@
+package Java_Classes;
+
 public class JavaClassThree {
 // file and class name should match
 
@@ -23,8 +25,8 @@ public class JavaClassThree {
         Constructor has simialr name of class and special kind of method
 
          */
-        //new JavaClassThree();                            // Objects are created in Heap Memory
-        //JavaClassThree learnClassObject                  // save object in a refernce variable
+        //new Java_Classes.JavaClassThree();                            // Objects are created in Heap Memory
+        //Java_Classes.JavaClassThree learnClassObject                  // save object in a refernce variable
         // Class name is also treated as the data type
         // reference means address of the class in heap memory
         // reference will store the reference or location only of that class

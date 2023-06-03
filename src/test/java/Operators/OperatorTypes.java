@@ -1,3 +1,5 @@
+package Operators;
+
 public class OperatorTypes {
 
     public static void main(String[] args){

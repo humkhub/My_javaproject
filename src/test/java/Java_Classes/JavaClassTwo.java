@@ -1,3 +1,5 @@
+package Java_Classes;
+
 public class JavaClassTwo {
     //String weblink = "www.amazon.com";
     int cartvalue = 2;

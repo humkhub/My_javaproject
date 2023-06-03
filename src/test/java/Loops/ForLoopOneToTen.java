@@ -1,3 +1,5 @@
+package Loops;
+
 public class ForLoopOneToTen {
     public static void main(String[] args) {
 

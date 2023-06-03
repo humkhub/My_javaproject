@@ -1,4 +1,6 @@
-public class InstagramRunTime extends SocialMediaRunTime{
+package Method_Over_Riding;
+
+public class InstagramRunTime extends SocialMediaRunTime {
     //method overriding
     public void post() {
 

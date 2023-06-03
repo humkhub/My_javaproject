@@ -1,3 +1,5 @@
+package Method_Over_Riding;
+
 import java.util.Scanner;
 
 public class MainRunTimeSocialMedia {
@@ -26,17 +28,17 @@ public class MainRunTimeSocialMedia {
 //
 //        switch (userChoice) {            // switch case method for choices
 //               case "Facebook":
-//                FacebookRunTime objFB = new FacebookRunTime();
+//                Method_Over_Riding.FacebookRunTime objFB = new Method_Over_Riding.FacebookRunTime();
 //                objFB.post();          // calling post method
 //                break;                 // breaks the program at this point
 //
 //               case "Instagram":
-//                InstagramRunTime objInt =new InstagramRunTime();
+//                Method_Over_Riding.InstagramRunTime objInt =new Method_Over_Riding.InstagramRunTime();
 //                objInt.post();
 //                break;
 //
 //            case "SocialMedia":
-//                SocialMediaRunTime objsoc = new SocialMediaRunTime();
+//                Method_Over_Riding.SocialMediaRunTime objsoc = new Method_Over_Riding.SocialMediaRunTime();
 //                objsoc.post();
 //                break;
 //

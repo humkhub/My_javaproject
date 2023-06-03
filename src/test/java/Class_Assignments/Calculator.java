@@ -1,3 +1,5 @@
+package Class_Assignments;
+
 public class Calculator {
 
     /* 1- Find the prime number between 1-50......Not done yet
@@ -39,13 +41,13 @@ public class Calculator {
         Calculator CalcObj = new Calculator();// calling calcAdd
         int addition = CalcObj.calcAdd();
 
-        //Calculator CalcObj1 = new Calculator();// calling calcSub
+        //Class_Assignments.Calculator CalcObj1 = new Class_Assignments.Calculator();// calling calcSub
         int subtraction = CalcObj.calcSub();
 
-        //Calculator CalcObj2 = new Calculator();// calling calcMulti
+        //Class_Assignments.Calculator CalcObj2 = new Class_Assignments.Calculator();// calling calcMulti
         int multiplication = CalcObj.calcMulti();
 
-        //Calculator CalcObj3 = new Calculator();// calling calcDiv
+        //Class_Assignments.Calculator CalcObj3 = new Class_Assignments.Calculator();// calling calcDiv
         int division = CalcObj.calcDiv();
 
 

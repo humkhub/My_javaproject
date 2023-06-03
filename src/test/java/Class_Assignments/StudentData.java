@@ -1,3 +1,5 @@
+package Class_Assignments;
+
 public class StudentData {
 
     String name;

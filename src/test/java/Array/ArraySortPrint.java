@@ -1,3 +1,5 @@
+package Array;
+
 public class ArraySortPrint {
         public static void main(String[] args) {
             String[] arr = {"Default sorting", "Sort by popularity", "Sort by average rating"};

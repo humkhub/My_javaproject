@@ -1,3 +1,4 @@
+package Scanner;
 
 import java.util.Scanner;
 //Problem #9 Write  a Java program that ask the user to input two numbers, performs addition, and displays the result in the console:

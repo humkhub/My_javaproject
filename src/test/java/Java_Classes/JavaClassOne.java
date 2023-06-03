@@ -1,3 +1,5 @@
+package Java_Classes;
+
 public class JavaClassOne {                                                                      // curly braces define th scope of the class
                                                                                                    // a identifier is being used at 3 places, inside class scope, inside sum method scope and isndie minus method scope
        int a = 10;

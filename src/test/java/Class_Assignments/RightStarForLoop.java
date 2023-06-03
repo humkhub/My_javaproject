@@ -1,3 +1,5 @@
+package Class_Assignments;
+
 public class RightStarForLoop { // check and correct this one
 
     public static void main(String[] args) {

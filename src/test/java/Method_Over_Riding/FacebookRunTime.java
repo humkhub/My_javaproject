@@ -1,3 +1,7 @@
+package Method_Over_Riding;
+
+import Method_Over_Riding.SocialMediaRunTime;
+
 public class FacebookRunTime extends SocialMediaRunTime {
 
     public void post() {

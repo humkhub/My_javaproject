@@ -1,3 +1,5 @@
+package Concatenation;
+
 public class ConcatenateString {
     /*Assignment#4: Concatenate any of two string using non-static method
     Approach:string a = "" String b = ""
@@ -13,7 +15,7 @@ return : concatenation of both strings
 
 
 
-        ConcatenateString strObj = new ConcatenateString();      // calling StringCon Method, where ConcatenateString() is the constructor and new keyword invoke this constructor to access the c variable . Here strObj is the reference variable,
+        ConcatenateString strObj = new ConcatenateString();      // calling StringCon Method, where Concatenation.ConcatenateString() is the constructor and new keyword invoke this constructor to access the c variable . Here strObj is the reference variable,
 
         String combinestring = strObj.StringConcat();            //
 

@@ -1,3 +1,5 @@
+package Java_Classes;
+
 public class JavaClassFour {
     /* Review
     What is static and non static variables?

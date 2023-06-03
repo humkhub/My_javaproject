@@ -1,3 +1,5 @@
+package Method_Over_Loading;
+
 import java.util.Scanner;
 
 public class Fruit {
@@ -48,10 +50,10 @@ public class Fruit {
     }
 }
 
-        //Fruit.eat();
-        //Fruit.eat("Apples", 2);
-        //Fruit.eat(7.99f,"Strawberries");
-        //Fruit.eat(5,"sweet",4.35f);
+        //Method_Overloading.Fruit.eat();
+        //Method_Overloading.Fruit.eat("Apples", 2);
+        //Method_Overloading.Fruit.eat(7.99f,"Strawberries");
+        //Method_Overloading.Fruit.eat(5,"sweet",4.35f);
 
    // }
 //}

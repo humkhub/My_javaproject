@@ -1,3 +1,5 @@
+package Class_Assignments;
+
 public class Factor {
     /* Write a program which will return the factors. If you provide the number,it will find the factors
     Example: If given number is 5, if we mulitiply it by 5 * 4 * 3* 2* 1.

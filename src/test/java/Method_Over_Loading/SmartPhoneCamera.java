@@ -1,3 +1,5 @@
+package Method_Over_Loading;
+
 public class SmartPhoneCamera {
     // method overloading example
     public void takePhoto(){

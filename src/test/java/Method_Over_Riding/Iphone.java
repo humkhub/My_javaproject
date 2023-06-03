@@ -1,7 +1,9 @@
-public class Iphone extends SmartPhoneParent{
-        @Override
+package Method_Over_Riding;
+
+import Method_Over_Riding.SmartPhoneParent;
+
+public class Iphone extends SmartPhoneParent {
         public void makeCall(int phoneNumber) {
-            // Perform additional iPhone-specific operations
             System.out.println("Calling " + phoneNumber + " using iPhone");
         }
 }

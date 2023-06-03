@@ -1,3 +1,5 @@
+package Class_Assignments;
+
 public class BananaProg {
     /* Assignment # 5
     There is String value = Banana

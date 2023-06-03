@@ -1,3 +1,5 @@
+package Java_Intro;
+
 public class CustomerInfo {
 
     public static void main(String[] args) {

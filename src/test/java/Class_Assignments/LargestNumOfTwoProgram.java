@@ -1,3 +1,5 @@
+package Class_Assignments;
+
 public class LargestNumOfTwoProgram {
 /* Write a program to find the largest number between 2 numbers by using non-static method
 From parameters pass 2 numbers,
